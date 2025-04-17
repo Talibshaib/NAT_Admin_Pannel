@@ -35,7 +35,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-12">
         <header className="flex justify-between items-center mb-16">
           <div className="flex items-center">
-            <h1 className="text-3xl font-bold text-blue-400">PayEase</h1>
+            <h1 className="text-3xl font-bold text-blue-400">GPS Pay</h1>
             <span className="ml-2 text-sm bg-blue-500 text-white px-2 py-1 rounded">QR-less</span>
           </div>
         </header>

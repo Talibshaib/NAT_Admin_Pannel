@@ -144,7 +144,7 @@ export default function OtherServiceRegistration() {
       <div className="container mx-auto max-w-3xl">
         <header className="py-8">
           <Link href="/register" className="flex items-center w-fit">
-            <h1 className="text-3xl font-bold text-blue-400">PayEase</h1>
+            <h1 className="text-3xl font-bold text-blue-400">GPS Pay</h1>
             <span className="ml-2 text-sm bg-green-500 text-white px-2 py-1 rounded">Other Services</span>
           </Link>
         </header>

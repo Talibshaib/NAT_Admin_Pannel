@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PayEase - QR-less Payment Admin",
+  title: "GPS Pay - QR-less Payment Admin",
   description: "Admin dashboard for QR-less payment system management",
 };
 

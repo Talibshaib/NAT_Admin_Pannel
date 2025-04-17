@@ -63,7 +63,7 @@ export default function Login() {
       <div className="w-full max-w-md">
         <div className="flex justify-center mb-8">
           <Link href="/" className="flex items-center">
-            <h1 className="text-3xl font-bold text-blue-400">PayEase</h1>
+            <h1 className="text-3xl font-bold text-blue-400">GPS Pay</h1>
             <span className="ml-2 text-sm bg-blue-500 text-white px-2 py-1 rounded">QR-less</span>
           </Link>
         </div>
